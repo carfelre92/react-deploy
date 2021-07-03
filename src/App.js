@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h1>my react app</h1>
       <h2>hahaha</h2>
-      <img src={"https://via.placeholder.com/150"} alt="profile-image"/>
+      <img src={"https://hatrabbits.com/wp-content/uploads/2017/01/tafel-1.jpg"} alt="profile-image"/>
     </div>
   );
 }
